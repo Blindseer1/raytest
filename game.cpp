@@ -82,7 +82,6 @@ mousePos.y<=coords.y+coords.height;
   
 if (mouseHover && IsMouseButtonPressed(MOUSE_BUTTON_LEFT)){
   skill.use();
-  std::cout<<"am fost apasat"<<'\n';
 }
 if (mouseHover){
    DrawRectangleLinesEx( coords,4,RAYWHITE);
