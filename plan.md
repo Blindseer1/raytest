@@ -8,6 +8,10 @@ aseprite scale = 12
 - Dodge 
 - Stamina/Mana 
 
+# Make Skills Wrapper Class
+# Implement TUrn base Logic 
+# IMplement 3 error classes
+ 
 
 # Attack types
  - regular physical attack (physical *1 )

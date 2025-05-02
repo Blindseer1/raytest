@@ -1,3 +1,3 @@
 
 default:
-	g++ Entity.cpp game.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+	g++ Entity.cpp Attacks.cpp Prompt.cpp game.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
