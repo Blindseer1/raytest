@@ -57,7 +57,6 @@ if(!checkStamina(attacker))
 else {
     attacker.applyConsumption(getConsumption());
    attacker.applyHeal(-getDamage()+attacker.getIntelligence());
-  defender.applyDamage(getDamage()); 
  describe(attacker,prompt);
     }
 }
